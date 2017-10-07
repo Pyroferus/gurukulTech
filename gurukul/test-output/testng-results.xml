@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57405" started-at="2017-09-08T13:29:39Z" finished-at="2017-09-08T13:30:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57405" started-at="2017-09-08T13:29:39Z" finished-at="2017-09-08T13:30:37Z">
+      <class name="school.calendar">
+        <test-method status="PASS" signature="bfr()[pri:0, instance:school.calendar@39fb3ab6]" name="bfr" duration-ms="35483" started-at="2017-09-08T18:59:39Z" finished-at="2017-09-08T19:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfr -->
+        <test-method status="PASS" signature="functionality_validation()[pri:1, instance:school.calendar@39fb3ab6]" name="functionality_validation" duration-ms="2" started-at="2017-09-08T19:00:15Z" finished-at="2017-09-08T19:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- functionality_validation -->
+        <test-method status="PASS" signature="jun_holiday()[pri:2, instance:school.calendar@39fb3ab6]" name="jun_holiday" duration-ms="4935" started-at="2017-09-08T19:00:15Z" finished-at="2017-09-08T19:00:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jun_holiday -->
+        <test-method status="PASS" signature="aug_holiday()[pri:3, instance:school.calendar@39fb3ab6]" name="aug_holiday" duration-ms="4639" started-at="2017-09-08T19:00:20Z" finished-at="2017-09-08T19:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aug_holiday -->
+        <test-method status="PASS" signature="sep_holiday()[pri:4, instance:school.calendar@39fb3ab6]" name="sep_holiday" duration-ms="2482" started-at="2017-09-08T19:00:24Z" finished-at="2017-09-08T19:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sep_holiday -->
+        <test-method status="PASS" signature="oct_holiday()[pri:5, instance:school.calendar@39fb3ab6]" name="oct_holiday" duration-ms="2279" started-at="2017-09-08T19:00:27Z" finished-at="2017-09-08T19:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oct_holiday -->
+        <test-method status="PASS" signature="dec_holiday()[pri:6, instance:school.calendar@39fb3ab6]" name="dec_holiday" duration-ms="2470" started-at="2017-09-08T19:00:29Z" finished-at="2017-09-08T19:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dec_holiday -->
+        <test-method status="PASS" signature="jan_holiday()[pri:7, instance:school.calendar@39fb3ab6]" name="jan_holiday" duration-ms="2558" started-at="2017-09-08T19:00:31Z" finished-at="2017-09-08T19:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jan_holiday -->
+        <test-method status="PASS" signature="mar_holiday()[pri:8, instance:school.calendar@39fb3ab6]" name="mar_holiday" duration-ms="2482" started-at="2017-09-08T19:00:34Z" finished-at="2017-09-08T19:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mar_holiday -->
+      </class> <!-- school.calendar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

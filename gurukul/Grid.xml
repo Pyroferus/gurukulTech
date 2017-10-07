@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Logien firefox">
+		<parameter name="Browser" value="FF"></parameter>
+		<classes>
+			<class name="school.SeleniumGrid" />
+		</classes>
+	</test>
+	<test name="login chrome">
+		<parameter name="Browser" value="CH"></parameter>
+		<classes>
+			<class name="school.SeleniumGrid"></class>
+		</classes>
+	</test>
+	<test name="login IE">
+		<parameter name="Browser" value="IE"></parameter>
+		<classes>
+			<class name="school.SeleniumGrid"></class>
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->
